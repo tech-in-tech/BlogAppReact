@@ -1,0 +1,12 @@
+day1 
+Update on React Project (Blog app)
+-setup a project 
+-crate git repo
+-create and add .env to gitignore
+-Add some required dependencies
+-setup Appwrite for backend
+-create attributes in Appwrite
+
+
+day2 
+-build auth services in appwrite
