@@ -10,3 +10,9 @@ Update on React Project (Blog app)
 
 day2 
 -build auth services in appwrite
+-create auth services createAccount, login, getCurrentUser, logout
+
+
+day3
+Build create, update, get, and delete method
+create file uplode services and delete file service
